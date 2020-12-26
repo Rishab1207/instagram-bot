@@ -1,9 +1,0 @@
-{
-    "username": "input[name=username]",
-    "password": "input[name=password]",
-    "login": "button[type=submit]",
-    "search": "input[placeholder=Search]",
-    "username_value": "nothingnewid12",
-    "password_value": "incorrect",
-    "span": "span.Ap253"
-}
